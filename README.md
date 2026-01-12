@@ -6,7 +6,7 @@
 Socialfy is a frontend practice project built while learning **React**.  
 The goal of this project is to understand **React basics** and improve UI-building skills.
 
-> ⚠️ Note: This project is **not fully responsive yet** as I am still learning frontend development.
+
 
 ---
 

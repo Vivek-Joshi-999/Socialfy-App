@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+body{
+  background-color: rgb(246, 241, 247);
+  color: rgb(18, 17, 17);
+  margin: 0;
+  padding: 0;
+  height: auto;
+  font-family:
+}
+/* index.css or App.css */
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.hide-scrollbar {
+  -ms-overflow-style: none;  /* IE & Edge */
+  scrollbar-width: none;     /* Firefox */
+}
+
+
+
+

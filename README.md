@@ -1,6 +1,3 @@
-# Socialfy-App
-
-
 # Socialfy 🌐
 
 Socialfy is a frontend practice project built while learning **React**.  
